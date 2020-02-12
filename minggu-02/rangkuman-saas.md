@@ -25,7 +25,7 @@ SaaS adalah model pengiriman umum untuk banyak aplikasi bisnis, termasuk perangk
 
 Penyedia SaaS menyimpan aplikasi dan data secara terpusat - tambalan penyebaran. Mereka meningkatkan ke aplikasi secara transparan, memberikan akses ke pengguna akhir melalui Internet. Banyak vendor menyediakan API yang digunakan pengembang untuk membuat aplikasi komposit. Ini berisi berbagai mekanisme keamanan untuk keamanan data selama transmisi dan penyimpanan.
 
-![png] (gambar1.png)
+![png](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-02/gambar1.png) 
 
 Ada dua varietas utama SaaS:
 
@@ -34,14 +34,14 @@ Perangkat Lunak yang menjawab kebutuhan industri tertentu (mis. Perangkat lunak 
 SaaS Horisontal
 Produk-produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
 
-![png] (gambar2.png)
+![png](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-02/gambar2.png)
 
 Arsitektur Platform SAAS (Perangkat Lunak sebagai Layanan)
 ==========================================================
 
 Mengapa Menggunakan Arsitektur SaaS?
 
-![png] (gambar3.png)
+![png](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-02/gambar3.jpg)
 
 Seperti yang disebutkan dalam pendahuluan, perangkat lunak telah didistribusikan kepada pelanggan dalam berbagai saluran selama beberapa dekade terakhir. Saluran distribusi yang lebih baru dalam Perangkat Lunak sebagai Layanan (atau SaaS).
 
@@ -54,7 +54,7 @@ Cara membangun aplikasi SaaS berbasis cloud
 * Menggunakan Sistem Antrian RabbitMQ.
 * Membangun Aplikasi Web yang skalabel menggunakan Amazon Web Service. AWS memnungkinkan untuk meng-host dan  menjalankan aplikasi web serta melakukan pekerjaan batch berkinerja tinggi. Dengan Elastic Compute Cloud (EC2) AWS menyediakan server virtual yang dapat diskalakan untuk setiap bisnis.
 
-![png] (gambar4.png)
+![png](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-02/gambar4.jpg)
 
 
 
