@@ -1,0 +1,27 @@
+{
+  "name": "maria175610056",
+  "version": "1.0.0",
+  "description": "Heroku PHP",
+  "main": "modernizr-custom.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satriang/cache_api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/satriang/cache_api/issues"
+  },
+  "homepage": "https://github.com/satriang/cache_api#readme"
+}
