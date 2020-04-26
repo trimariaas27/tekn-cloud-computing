@@ -188,7 +188,7 @@ Memeriksa Dockerfile yang baru ditambahkan di bawah folder ./www dengan perintah
 Selanjutnya, kita akan melihat file api / main.py server API tempat menggunakan cache Redis sebagai berikut :
 
 ![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-11/Capture_39a.PNG)
-![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-11/Capture_29b.PNG)
+![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-11/Capture_39b.PNG)
 
 Melihat file docker-compose.yml yang diperbarui dengan menjalanakn perintah berikut :
 
