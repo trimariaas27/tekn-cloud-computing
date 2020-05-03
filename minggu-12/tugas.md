@@ -88,7 +88,7 @@ Perhatikan bahwa sekarang ada 7 kontainer yang terdaftar. Mungkin diperlukan beb
 
 Skala layanan kembali menjadi hanya empat kontainer dengan pembaruan layanan replika 4 perintah sleep-app :
 
-![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-12/gambar12a.png)
+![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-12/Gambar12a.png)
 ![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-12/gambar12b.png)
 
 Verifikasi bahwa jumlah kontainer telah dikurangi menjadi 4 menggunakan perintah docker service ps sleep-app :
