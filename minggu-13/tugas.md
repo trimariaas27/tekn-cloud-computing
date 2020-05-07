@@ -23,8 +23,8 @@ Tutorial Interaktif - Menyebarkan Aplikasi :
 ![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-13/gambar3b.png)
 ![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-13/gambar3c.png)
 
- 
 3. Jelajahi Aplikasi, dengan Melihat Pods dan Nodes
+-----------------------------------------------------
 
 Tutorial Interaktif - Menjelajahi Aplikasi :
 
@@ -100,6 +100,7 @@ Mengekspos Alamat IP Eksternal untuk Mengakses Aplikasi dalam Cluster
 ---------------------------------------------------------------------
 
 ![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-13/gambar9a.png)
+
 ![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-13/gambar9b.png)
 
 Contoh: Menyebarkan aplikasi Buku Tamu PHP dengan Redis :
