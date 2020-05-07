@@ -22,6 +22,7 @@ Tutorial Interaktif - Menyebarkan Aplikasi :
 ![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-13/gambar3a.png)
 ![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-13/gambar3b.png)
 ![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-13/gambar3c.png)
+
  
 3. Jelajahi Aplikasi, dengan Melihat Pods dan Nodes
 ---------------------------------------------------
