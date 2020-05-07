@@ -25,7 +25,6 @@ Tutorial Interaktif - Menyebarkan Aplikasi :
 
  
 3. Jelajahi Aplikasi, dengan Melihat Pods dan Nodes
----------------------------------------------------
 
 Tutorial Interaktif - Menjelajahi Aplikasi :
 
@@ -85,10 +84,6 @@ Mengkonfigurasi Redis menggunakan ConfigMap
 ![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-13/gambar8d.png)
 
 ![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-13/gambar8e.png)
-
-![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-13/gambar8f.png)
-
-![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-13/gambar8g.png)
 
 ![alt text](https://github.com/trimariaas27/tekn-cloud-computing/blob/master/minggu-13/gambar8h.png)
 
